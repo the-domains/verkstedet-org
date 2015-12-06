@@ -1,0 +1,28 @@
+name: verkstedet.org
+favicon: null
+layout_spectrum: 0.7265365589410067
+typography_spectrum: 0.04739566543139517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.22947046370245516
+  lightness: 0.9663184199016541
+  saturation: 0.4209004072472453
+  rhythmicContrast: 0.3465830634813756
+purpose: []
