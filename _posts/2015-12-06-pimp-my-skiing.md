@@ -6,26 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-10T16:06:38.836Z'
-dateModified: '2015-12-08T11:09:40.448Z'
+datePublished: '2015-12-10T16:09:07.066Z'
+dateModified: '2015-12-10T16:09:03.954Z'
 title: Pimp My Skiing
 author: []
+sourcePath: _posts/2015-12-06-pimp-my-skiing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-06-pimp-my-skiing.md
-published: true
 url: pimp-my-skiing/index.html
 _type: Article
 
 ---
 # Pimp My Skiing
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9eba56e-8de7-4aba-a451-2079f160955c.jpg)
 
 Wondered how skiing felt like when you where a kid? Have you thought about when skiing took a different turn and wasn't as fun or gave you the same kind of sensation as it used to do? Have you ever wondered why?
+![Wondered how skiing felt like when you where a kid?](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb75e083c2f8ed20fbca07b5abf73221fa37786f.jpg)
 
 Dealing with injuries and periods with lack of motivation affects our possibility to maximizethe moment of skiing down a mountain. Equipment, friends, weather and environment playsdefinitely a big role in this game but pain, endurance, strength, flexibility and the allcombined balance as well as progress in skiing is probably the most significant factors thatset limits to having the most awesome day on the mountain and maintain passion and keepon skiing with the biggest smile!
 
