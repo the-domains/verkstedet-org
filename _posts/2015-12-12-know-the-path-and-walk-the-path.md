@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T06:19:48.647Z'
-dateModified: '2015-12-13T06:19:41.864Z'
+datePublished: '2015-12-13T06:29:37.213Z'
+dateModified: '2015-12-13T06:29:29.562Z'
 title: Know the path and walk the path
 author: []
 sourcePath: _posts/2015-12-12-know-the-path-and-walk-the-path.md
@@ -27,14 +27,14 @@ _type: Article
 
 Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-methed / Pimp My Body has scheduled a Workshop the will help you know the path. You can also choose the walk it.
 
-**KNOW YOUR PATHWORKSHOP ENROLEMENT **- [CLICK HERE][0]
+**KNOW YOUR PATH - WORKSHOP ENROLEMENT **- [CLICK HERE][0]
 
 * Dates - 16th of January & 13th of February from 13
 * Time - 1PM - 2.30PM
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
 
-> _You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? _
+You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? 
 
 **WALK YOUR PATH**
 
@@ -42,7 +42,7 @@ Based on the previous press-release and an increasing demand from the public we 
 * Read about Verkstedet-method / Pimp My Body - [CLICK HERE][2]
 * Book you first appointment - [CLICK HERE][3]
 
-Please Note! We are testing the Grid beta-release. You can find more info on [Twitter][4], [Facebook][5] & [Verkstedet.no][2]
+_**Please Note! **We are testing the Grid beta-release. You can find more info on [Twitter][4], [Facebook][5] & [Verkstedet.no][2]_
 
 [0]: https://podio.com/webforms/14412579/965903
 [1]: http://www.verkstedet.org/
