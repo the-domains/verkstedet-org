@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T06:52:22.149Z'
-dateModified: '2015-12-13T06:52:18.780Z'
+datePublished: '2015-12-13T20:59:25.269Z'
+dateModified: '2015-12-13T20:59:06.687Z'
 title: WORKSHOP 2016 - Know your path and walk your path
 author: []
 sourcePath: _posts/2015-12-13-workshop-2016-know-your-path-and-walk-your-path.md
@@ -25,7 +25,7 @@ _type: Article
 # WORKSHOP 2016 - Know your path and walk your path
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0134304c-94d4-4680-a5e3-100ca29b56ef.jpg)
 
-Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-methed / Pimp My Body has scheduled a Workshop the will help you know the path. You can also choose the walk it.
+Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-method / Pimp My Body has scheduled a Workshop that will help you "know the path". You can also choose the walk it.
 
 **KNOW YOUR PATH - WORKSHOP ENROLEMENT **- [CLICK HERE][0]
 
