@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T06:39:10.240Z'
-dateModified: '2015-12-13T06:35:53.775Z'
+datePublished: '2015-12-13T06:41:32.969Z'
+dateModified: '2015-12-13T06:41:19.371Z'
 title: Know the path and walk the path
 author: []
 sourcePath: _posts/2015-12-12-know-the-path-and-walk-the-path.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: know-the-path-and-walk-the-path/index.html
 _type: Article
 
