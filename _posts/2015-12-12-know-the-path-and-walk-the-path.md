@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T06:29:37.213Z'
-dateModified: '2015-12-13T06:29:29.562Z'
+datePublished: '2015-12-13T06:34:08.339Z'
+dateModified: '2015-12-13T06:34:02.429Z'
 title: Know the path and walk the path
 author: []
 sourcePath: _posts/2015-12-12-know-the-path-and-walk-the-path.md
@@ -34,7 +34,9 @@ Based on the previous press-release and an increasing demand from the public we 
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
 
-You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? 
+> You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? 
+
+...
 
 **WALK YOUR PATH**
 
