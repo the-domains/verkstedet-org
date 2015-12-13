@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T06:11:18.892Z'
-dateModified: '2015-12-13T06:10:49.348Z'
+datePublished: '2015-12-13T06:19:48.647Z'
+dateModified: '2015-12-13T06:19:41.864Z'
 title: Know the path and walk the path
 author: []
 sourcePath: _posts/2015-12-12-know-the-path-and-walk-the-path.md
@@ -34,19 +34,19 @@ Based on the previous press-release and an increasing demand from the public we 
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
 
+> _You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? _
+
 **WALK YOUR PATH**
 
 * Read the press-release - [CLICK HERE][1]
 * Read about Verkstedet-method / Pimp My Body - [CLICK HERE][2]
 * Book you first appointment - [CLICK HERE][3]
 
-__
-
-> _You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows? _
-
-
+Please Note! We are testing the Grid beta-release. You can find more info on [Twitter][4], [Facebook][5] & [Verkstedet.no][2]
 
 [0]: https://podio.com/webforms/14412579/965903
 [1]: http://www.verkstedet.org/
 [2]: http://www.verkstedet.no/
-[3]: https://podio.com/webforms/14208298/953185
+[3]: https://podio.com/webforms/14208298/953185 
+[4]: https://twitter.com/theverkstedet?lang=sv
+[5]: https://www.facebook.com/VerkstedetClinics/?fref=ts
