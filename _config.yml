@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: VERKSTEDET ORGANISATION
+title: VERKSTEDET ORGANISATION (Beta on TheGrid.ai)
 cta:
   domain: null
   bucket: null
