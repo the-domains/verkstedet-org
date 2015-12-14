@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T20:59:25.269Z'
-dateModified: '2015-12-13T20:59:06.687Z'
+datePublished: '2015-12-14T09:36:25.674Z'
+dateModified: '2015-12-14T09:36:21.355Z'
 title: WORKSHOP 2016 - Know your path and walk your path
 author: []
 sourcePath: _posts/2015-12-13-workshop-2016-know-your-path-and-walk-your-path.md
@@ -40,12 +40,13 @@ _"You've got the gift, but it looks like you're waiting for something...your nex
 
 * Read the press-release - [CLICK HERE][1]
 * Read about Verkstedet-method / Pimp My Body - [CLICK HERE][2]
-* Book you first appointment - [CLICK HERE][0]
+* Book you first appointment - [CLICK HERE][3]
 
-_**Please Note!**We are testing the Grid beta-release. You can find more info on[Twitter][3], [Facebook][4]&[Verkstedet.no][2]_
+_**Please Note!**We are testing the Grid beta-release. You can find more info on[Twitter][4], [Facebook][5]&[Verkstedet.no][2]_
 
-[0]: https://podio.com/webforms/14208298/953185
+[0]: https://podio.com/webforms/14412579/965903
 [1]: http://www.verkstedet.org/
 [2]: http://www.verkstedet.no/
-[3]: https://twitter.com/theverkstedet?lang=sv
-[4]: https://www.facebook.com/VerkstedetClinics/?fref=ts
+[3]: https://podio.com/webforms/14208298/953185
+[4]: https://twitter.com/theverkstedet?lang=sv
+[5]: https://www.facebook.com/VerkstedetClinics/?fref=ts
