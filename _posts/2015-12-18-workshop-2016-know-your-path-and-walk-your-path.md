@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T13:58:32.784Z'
-dateModified: '2015-12-18T13:57:31.222Z'
+datePublished: '2015-12-18T14:27:31.175Z'
+dateModified: '2015-12-18T14:27:20.947Z'
 title: Workshop 2016 - Know your path and walk your path
 author: []
+sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
-published: true
 url: workshop-2016-know-your-path-and-walk-your-path/index.html
 _type: Article
 
@@ -36,6 +36,7 @@ Based on the previous press-release and an increasing demand from the public we 
 * Time - 1PM - 2.00PM
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
+null
 
 **WALK YOUR PATH - FIND OUT WHERE YOU ARE**
 
