@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T14:27:31.175Z'
-dateModified: '2015-12-18T14:27:20.947Z'
+datePublished: '2015-12-19T21:26:09.317Z'
+dateModified: '2015-12-19T21:25:30.019Z'
 title: Workshop 2016 - Know your path and walk your path
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -23,13 +23,15 @@ _type: Article
 
 ---
 # Workshop 2016 - Know your path and walk your path
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7486c9e2-0345-4ec2-bd0e-cf8700830d10.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1f2aee5c7b9c1d981862d3c6a8c8b77783ce75.jpg)
 
 Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-method / Pimp My Body has scheduled a Workshop that will help you "know the path". You can also choose the walk it.
 
 > You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows?
-
-**KNOW YOUR PATH - WORKSHOP 2016**
+> 
+> ****
+> 
+> **KNOW YOUR PATH - WORKSHOP 2016**
 
 * Registration - [CLICK HERE][0]
 * Dates - 16th of January & 13th of February
@@ -37,8 +39,7 @@ Based on the previous press-release and an increasing demand from the public we 
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
 null
-
-**WALK YOUR PATH - FIND OUT WHERE YOU ARE**
+null
 
 * Find out your current full body status today - [CLICK HERE][0]
 * Price 1200 NOK (1,5h)
