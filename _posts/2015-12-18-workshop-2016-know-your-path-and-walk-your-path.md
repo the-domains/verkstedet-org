@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T21:26:09.317Z'
-dateModified: '2015-12-19T21:25:30.019Z'
+datePublished: '2015-12-20T12:30:08.238Z'
+dateModified: '2015-12-20T12:30:04.061Z'
 title: Workshop 2016 - Know your path and walk your path
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -34,12 +34,12 @@ Based on the previous press-release and an increasing demand from the public we 
 > **KNOW YOUR PATH - WORKSHOP 2016**
 
 * Registration - [CLICK HERE][0]
-* Dates - 16th of January & 13th of February
+* Dates - **16th of January** or **13th of February**
 * Time - 1PM - 2.00PM
 * Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
 * Price - 300NOK
-null
-null
+
+nullnull
 
 * Find out your current full body status today - [CLICK HERE][0]
 * Price 1200 NOK (1,5h)
