@@ -1,7 +1,7 @@
 name: verkstedet.org
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74643
+layout_spectrum: 0.49329
+typography_spectrum: 0.48301
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#515151'
     - '#b03425'
   brandStrength: 0
-  lightness: 0.9663184199016541
-  saturation: 0.5
-  rhythmicContrast: 0.3465830634813756
+  lightness: 0.25
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
