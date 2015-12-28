@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Know your path and walk your path
-datePublished: '2015-12-27T22:01:53.028Z'
-dateModified: '2015-12-27T17:15:03.318Z'
+datePublished: '2015-12-28T06:13:00.151Z'
+dateModified: '2015-12-28T06:12:41.569Z'
 title: "WORKSHOP 2016\_"
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # WORKSHOP 2016 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41baff62-c492-47b1-bca3-68f8c626fe0e.jpg)
 
-Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-method / Pimp My Body has scheduled two Workshops, **16th of Januar****y** or **13th of February**, where we will present the verkstedet-method. This way you will "know the path". If you would like to try it out yourself,  "walk the path", workshop participants have discount on treatments.
+Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-method / Pimp My Body has scheduled two Workshops, **16th of Januar****y** or **13th of February**, where we will present the verkstedet-method. The workshops will inform you "know the path" about the "Verkstedet-method". If you would like to try it out yourself,  "walk the path", workshop participants have discount.
 
 > You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows?
 > 
