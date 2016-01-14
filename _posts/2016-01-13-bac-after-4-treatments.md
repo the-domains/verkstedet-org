@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-01-13T18:15:09.210Z'
-dateModified: '2016-01-13T18:10:49.384Z'
+datePublished: '2016-01-14T08:46:31.857Z'
+dateModified: '2016-01-14T08:46:26.006Z'
 title: "BAC after \_4 treatments"
 author: []
+sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
-published: true
 url: bac-after-4-treatments/index.html
 _type: Article
 
@@ -25,7 +25,7 @@ _type: Article
 # 
 
 # BAC after  4 treatments
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d1712d711cbc8590223a085740127ed68fa5979.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f55aa8c-61f2-49bc-89c8-0140f6d81008.jpg)
 
 **Pimp my golf..skiing....life! You name it...this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs). Blue (small) dots before PMB. This man was in pain. White (big) dots after 4 treatments.**
 
