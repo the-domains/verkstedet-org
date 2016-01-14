@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-01-14T08:46:31.857Z'
-dateModified: '2016-01-14T08:46:26.006Z'
+datePublished: '2016-01-14T08:51:57.889Z'
+dateModified: '2016-01-14T08:51:52.407Z'
 title: "BAC after \_4 treatments"
 author: []
 sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
@@ -25,7 +25,7 @@ _type: Article
 # 
 
 # BAC after  4 treatments
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f55aa8c-61f2-49bc-89c8-0140f6d81008.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e793665eb6e16aa29de87c1501d67c12596b00e3.jpg)
 
 **Pimp my golf..skiing....life! You name it...this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs). Blue (small) dots before PMB. This man was in pain. White (big) dots after 4 treatments.**
 
@@ -42,9 +42,9 @@ We are looking for quality here. Not quantity. This bring joy to life. He left w
 
 **Any questions?**
 
-Pose them on our Facebook page, talk with Michael on twitter or join our workshop and presentation of the Verkstedet Method.
+Pose them on our Facebook page, talk with Michael on twitter or join our workshop and presentation of the Verkstedet Method. 50% Discount for workshop participants on BAC yourself and treatments.
 
-[FACEBOOK][0] - [TWITTER][1] - [WORKSHOP REGISTRATION][2]
+[FACEBOOK][0] - [TWITTER][1] - [WORKSHOP REGISTRATION][2] - [BAC YOURSELF][3]
 
 Best Regards
 
@@ -53,3 +53,4 @@ _Pontus Lüttkens, BAC - testleader_
 [0]: https://www.facebook.com/VerkstedetClinics/?fref=ts
 [1]: https://twitter.com/theverkstedet
 [2]: https://podio.com/webforms/14412579/965903
+[3]: https://podio.com/webforms/14208298/953185
