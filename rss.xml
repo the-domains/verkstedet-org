@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VERKSTEDET ORGANISATION (Beta on TheGrid.ai)]]></title>
-        <description><![CDATA[VERKSTEDET ORGANISATION (Beta on TheGrid.ai)]]></description>
+        <title><![CDATA[THE VERKSTEDET ORGANIZATION]]></title>
+        <description><![CDATA[THE VERKSTEDET ORGANIZATION]]></description>
         <link>http://www.verkstedet.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 18:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 21:27:26 GMT</lastBuildDate>
         <atom:link href="http://www.verkstedet.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[WHY WOULD YOU BAC YOURSELF?]]></title>
+            <description><![CDATA[<article><h1>WHY WOULD YOU BAC YOURSELF?</h1><p>Welcome and get mapped the way out of trouble!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01260cab9ab813c11a986aebfa42dacc6fe7de2b.jpg"></article>]]></description>
+            <link>http://www.verkstedet.org/why-would-you-bac-yourself/index.html</link>
+            <guid isPermaLink="false">9a13864b-5f9b-46aa-8f27-ff5c96e64cf9</guid>
+            <pubDate>Sat, 16 Jan 2016 21:26:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BAC after  4 treatments]]></title>
-            <description><![CDATA[<article><h1></h1><p>Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs). Blue (small) dots before PMB. This man was in pain. White (big) dots after 4 treatments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/731706d9b063088cf7971630c5957535b0965637.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1></h1><p>Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs). Blue (small) dots before PMB. This man was in pain. White (big) dots after 4 treatments.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7762be79763eb89b1e54dfeddd131ec1d741a2cd.jpg"></article>]]></description>
             <link>http://www.verkstedet.org/bac-after-4-treatments/index.html</link>
             <guid isPermaLink="false">55a36a4a-0e1c-4e4b-9b6a-56e451efdb2c</guid>
-            <pubDate>Wed, 13 Jan 2016 18:15:09 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 08:51:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A POLIO SURVIVOR - HELGE REISTAD]]></title>
