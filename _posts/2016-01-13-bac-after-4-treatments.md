@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-01-18T16:30:57.760Z'
+datePublished: '2016-01-18T16:30:57.629Z'
 dateModified: '2016-01-18T16:30:50.162Z'
 title: "BAC AFTER \_4 TREATMENTS"
 author: []
