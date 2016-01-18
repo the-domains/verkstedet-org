@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-01-17T19:58:33.275Z'
-dateModified: '2016-01-17T19:58:32.925Z'
+datePublished: '2016-01-17T20:31:52.467Z'
+dateModified: '2016-01-17T20:31:41.926Z'
 title: "BAC after \_4 treatments"
 author: []
 sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
@@ -25,7 +25,7 @@ _type: Article
 # 
 
 # BAC after  4 treatments
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e793665eb6e16aa29de87c1501d67c12596b00e3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e5a8c0-a350-4db9-9d9f-5efd3a918966.jpg)
 
 **Pimp my golf..skiing....life! You name it...this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs). Blue (small) dots before PMB. This man was in pain. White (big) dots after 4 treatments.**
 
@@ -36,7 +36,7 @@ Our testperson improved on over 95% of tested standards. He made a few less push
 * Major improvement in balance!
 * Major improvement in quad-strength!
 * Major improvement in core strenght!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/476dd6c3-f0e6-4d9e-af1b-a7a58582a117.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e707417b-9307-4cb6-9f08-af5c1a4ff819.jpg)
 
 We are looking for quality here. Not quantity. This bring joy to life. He left with a big smile!
 
