@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-01-17T20:34:14.621Z'
-dateModified: '2016-01-17T20:33:42.821Z'
+datePublished: '2016-01-17T20:34:14.762Z'
+dateModified: '2016-01-17T20:34:14.621Z'
 title: "BAC after \_4 treatments"
 author: []
 sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
