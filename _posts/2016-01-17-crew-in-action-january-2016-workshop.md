@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Thanks everybody who came to learn about structure, nutrition , emotion and neuroplasticity ! A new era starts now . - Michael'
-datePublished: '2016-01-18T16:34:21.880Z'
-dateModified: '2016-01-18T16:34:11.780Z'
-title: CREW IN ACTION - January 2016 workshop.
+datePublished: '2016-01-19T05:43:02.087Z'
+dateModified: '2016-01-19T05:42:58.034Z'
+title: "CREW IN ACTION\_"
 author: []
 sourcePath: _posts/2016-01-17-crew-in-action-january-2016-workshop.md
 published: true
@@ -22,8 +22,7 @@ url: crew-in-action-january-2016-workshop/index.html
 _type: Article
 
 ---
-# CREW IN ACTION - January 2016 workshop.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98821bc5631da55a1c7fb24b3d3a2ddbe02439e7.jpg)
+# CREW IN ACTION ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23ed55f4-4b23-4b20-8012-daeefd589811.jpg)
 
 > Thanks everybody who came to learn about structure, nutrition , emotion and neuroplasticity ! A new era starts now . - Michael
 
