@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Know your path and walk your path
-datePublished: '2015-12-28T06:13:00.151Z'
-dateModified: '2015-12-28T06:12:41.569Z'
+datePublished: '2016-01-28T15:32:45.208Z'
+dateModified: '2016-01-28T15:32:42.657Z'
 title: "WORKSHOP 2016\_"
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -43,7 +43,7 @@ Based on the previous press-release and an increasing demand from the public we 
 **START YOUR PROCESS - Walk your path**
 
 * Find out your current full body status today - [CLICK HERE][0]
-* Price 1200 NOK (1,5h)
+* Price 1500 NOK (1,5h)
 * 50% discount on BAC to Workshop 2016 participants
 
 ****
