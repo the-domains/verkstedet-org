@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T15:15:45.014Z'
+datePublished: '2016-01-28T15:15:45.071Z'
 dateModified: '2016-01-28T15:15:42.053Z'
 title: WELCOME INFORMATION
 author: []
