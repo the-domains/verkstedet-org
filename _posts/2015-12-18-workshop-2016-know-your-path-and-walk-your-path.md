@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Know your path and walk your path
-datePublished: '2016-01-28T15:32:45.208Z'
+datePublished: '2016-01-28T15:32:45.254Z'
 dateModified: '2016-01-28T15:32:42.657Z'
 title: "WORKSHOP 2016\_"
 author: []
