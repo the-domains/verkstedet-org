@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://freevectorsite.com/sports-silhouettes-2/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T22:01:48.389Z'
-dateModified: '2016-02-02T22:01:44.824Z'
+datePublished: '2016-02-02T22:01:03.366Z'
+dateModified: '2016-02-02T22:01:01.410Z'
 author: []
 title: 'BAC us up. We are recruiting!!!'
 sourcePath: _posts/2016-02-02-bac-us-up-we-are-recruiting.md
@@ -18,7 +19,6 @@ publisher:
   domain: freevectorsite.com
   url: null
   favicon: null
-url: bac-us-up-we-are-recruiting/index.html
 _context: 'http://schema.org'
 _type: Article
 
