@@ -1,30 +1,30 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://freevectorsite.com/sports-silhouettes-2/'
+hasPage: true
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T21:57:11.160Z'
-dateModified: '2016-02-02T21:56:46.558Z'
+datePublished: '2016-02-02T22:01:48.389Z'
+dateModified: '2016-02-02T22:01:44.824Z'
 author: []
 title: 'BAC us up. We are recruiting!!!'
+sourcePath: _posts/2016-02-02-bac-us-up-we-are-recruiting.md
+published: true
 authors: []
 publisher:
   name: freevectorsite.com
   domain: freevectorsite.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-02-bac-us-up-we-are-recruiting.md
-published: true
+url: bac-us-up-we-are-recruiting/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # BAC us up. We are recruiting!!!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecf73de9d65d131b0a78465efc3394e4324aaced.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e8cc12cd0e71f052e45362b6dc1d7dc993f4897.jpg)
 
 **I am looking for people with passion and real life experiences. You can be a proffesional athlete, experienced ski-teacher, climber, gym-teachers, windsurfers, surfers, personal trainers, athletic therapists and others with the love for all kinds of sports. Actually you can also be a musician, song-teacher, artist...The keyword is body-awareness, an interest to learn and analytical skills!**
 
