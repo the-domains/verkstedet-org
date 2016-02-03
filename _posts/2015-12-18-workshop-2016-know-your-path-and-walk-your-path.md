@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-03T20:41:02.479Z'
-dateModified: '2016-02-03T20:40:58.747Z'
+datePublished: '2016-02-03T20:51:37.138Z'
+dateModified: '2016-02-03T20:51:32.341Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
