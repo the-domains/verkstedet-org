@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-03T20:51:37.138Z'
-dateModified: '2016-02-03T20:51:32.341Z'
+datePublished: '2016-02-03T21:04:12.190Z'
+dateModified: '2016-02-03T21:04:08.947Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -31,71 +31,23 @@ Michael Jansson goes fearless in and becomes the first treatment protocol that s
 
 > Sooner or later. You're gonna realize, just like we 'did. There is a difference between knowing the path and walking the path.
 
-**Start your process - Walk your path now!**
-
-* 2 BAC (Body Analysis of the Current)
-* 4 PMBs (Pimp My Body)
-* 50% discount on BAC and 4 treatments o Workshop 2016 participants
-
 **Are you curious, unsure and want to know more about...the path ? _-_**_Please join one of our workshops in 2016_
 
 To registrer  -  [CLICK HERE][1]
 
 Coming up workshops 2016\. Updated monthly.
 
-* **13th FEBRUAY  - **_About the path... _
-* Time - 1PM - 2.30PM
-* Place -
-* Price - 
+**13th FEBRUAY  - **_About the path... _
 
-* **APRIL  - **
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
+1PM - 2.30PM - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO****- 300 NOK
 
-* **MAY  - **
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
+**Start your process - Walk your path now!**
 
-* **JUNE  - **
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
+2 BAC (Body Analysis of the Current), 4 PMBs (Pimp My Body). 50% discount for Workshop 2016 participants.
 
-* **JULY  - **
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
+> We are grateful to meet you. The door is now open. Lets walk through it - together.
 
-* **AUGUST  - **
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
-
-* **SEPTEMBER  -**
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
-
-* **OKTOBER  -**
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
-
-* **NOVEMBER  -**
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
-
-* **DECEMBER  -**
-* Time - 1PM - 2.30PM
-* Place - 
-* Price - 
-
-## - We are grateful to have met you. The door is now open. Lets walk through it - together.
-
-****- The Verkstedet Organization****
+- The Verkstedet Organization
 
 [0]: http://www.verkstedet.org/pressrelease-17112015/
 [1]: https://podio.com/webforms/14208298/953185
