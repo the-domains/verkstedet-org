@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Know your path and walk your path
-datePublished: '2016-01-28T15:32:45.254Z'
-dateModified: '2016-01-28T15:32:42.657Z'
-title: "WORKSHOP 2016\_"
+description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
+datePublished: '2016-02-03T20:40:34.956Z'
+dateModified: '2016-02-03T20:40:30.672Z'
+title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
 published: true
@@ -22,38 +22,80 @@ url: workshop-2016/index.html
 _type: Article
 
 ---
-# WORKSHOP 2016 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41baff62-c492-47b1-bca3-68f8c626fe0e.jpg)
+# WORKSHOPS 2016
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b14a76-4bfd-405d-9a04-fe41fe6a0a60.jpg)
 
-Based on the previous press-release and an increasing demand from the public we are happy to announce Verkstedet-method / Pimp My Body has scheduled two Workshops, **16th of Januar****y** or **13th of February**, where we will present the verkstedet-method. The workshops will inform you "know the path" about the "Verkstedet-method". If you would like to try it out yourself,  "walk the path", workshop participants have discount.
+Based on the press-release, [17.11.2015][0], and an increasing demand from the public we are happy to announce the Verkstedet-method / Pimp My Body (PMB) has scheduled workshops, throughout 2016 starting the **16th of January**, where the verkstedet-method is presented holistically by the founder of PMB, Michael Jansson together with Verkstedet Clinic and Pontus Lüttkens, founder of BAC, at Markveien Naturmedisinske Senter.
 
-> You've got the gift, but it looks like you're waiting for something...your next life maybe, who knows?
-> 
-> ****
-> 
-> ****
+Michael Jansson goes fearless in and becomes the first treatment protocol that systematically quality checks output after the 4 treatments that drives forward change from chronic pain and low performance. This has never been done before!!
 
-**WORKSHOP 2016 - Know your path**
+> Sooner or later. You're gonna realize, just like we 'did. There is a difference between knowing the path and walking the path.
 
-* Registration - [CLICK HERE][0]
-* Dates - **16th of January** or **13th of February**
+**Start your process - Walk your path now!**
+
+* 2 BAC (Body Analysis of the Current)
+* 4 PMBs (Pimp My Body)
+* 50% discount on BAC and 4 treatments o Workshop 2016 participants
+
+**Are you curious, unsure and want to know more about...the path ? _-_**_Please join one of our workshops in 2016_
+
+To registrer  -  [CLICK HERE][1]
+
+Coming up workshops 2016\. Updated monthly.
+
+* **13th FEBRUAY  - **_About the path... _
 * Time - 1PM - 2.30PM
-* Place - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO
-* Price - 300NOK
+* Place -
+* Price - 
 
-**START YOUR PROCESS - Walk your path**
+* **APRIL  - **
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
 
-* Find out your current full body status today - [CLICK HERE][0]
-* Price 1500 NOK (1,5h)
-* 50% discount on BAC to Workshop 2016 participants
+* **MAY  - **
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
 
-****
+* **JUNE  - **
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
 
-**Please Note!**
+* **JULY  - **
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
 
-We are testing the Grid beta-release. You can find more info on [Twitter][1], [Facebook][2] & [Markveien Naturmedisinske Senter][3] & [Verkstedet.no][4]
+* **AUGUST  - **
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
 
-[0]: https://podio.com/webforms/14412579/965903
-[1]: https://twitter.com/theverkstedet
-[2]: https://www.facebook.com/VerkstedetClinics/?fref=ts
-[3]: http://www.mns.no/behandling/fysiske-tester-mosjonister/
-[4]: http://www.verkstedet.no/
+* **SEPTEMBER  -**
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
+
+* **OKTOBER  -**
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
+
+* **NOVEMBER  -**
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
+
+* **DECEMBER  -**
+* Time - 1PM - 2.30PM
+* Place - 
+* Price - 
+
+## - We are grateful to have met you. The door is now open. Lets walk through it - together.
+
+****- The Verkstedet Organization****
+
+[0]: http://www.verkstedet.org/pressrelease-17112015/
+[1]: https://podio.com/webforms/14208298/953185
