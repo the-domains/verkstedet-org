@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-04T12:40:59.339Z'
-dateModified: '2016-02-04T12:40:58.834Z'
+datePublished: '2016-02-05T10:11:19.047Z'
+dateModified: '2016-02-05T10:11:15.831Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -25,7 +25,7 @@ _type: Article
 # WORKSHOPS 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b14a76-4bfd-405d-9a04-fe41fe6a0a60.jpg)
 
-Based on the press-release, [17.11.2015][0], and an increasing demand from the public we are happy to announce the Verkstedet-method / Pimp My Body (PMB) has scheduled workshops, throughout 2016 starting the **16th of January**, where the verkstedet-method is presented holistically by the founder of PMB, Michael Jansson together with Verkstedet Clinic,sindre Haga Andreassen and Pontus Lüttkens, founder of BAC, co-owner at Markveien Naturmedisinske Senter.
+Based on the press-release, [17.11.2015][0], and an increasing demand from the public we are happy to announce the Verkstedet-method / Pimp My Body (PMB) has scheduled workshops, throughout 2016 starting the **16th of January**, where the verkstedet-method is presented holistically by the founder of PMB, Michael Jansson together with Verkstedet Clinic, Sindre Haga Andreassen, Tor Strømnes. You will also be given a presentation of the testing system by Pontus Lüttkens, Markveien Naturmedisinske Senter, the founder of BAC and testleader for CheckUp.
 
 > Sooner or later. You're gonna realize, just like we 'did. There is a difference between knowing the path and walking the path.
 
@@ -37,17 +37,17 @@ Welcome and join our workshops in 2016!! To registrer  -  [CLICK HERE][2]
 
 _NEXT WORKSHOP_
 
-**13th February -**_About the path..._
+**13th February - **_About the path..._
 
-1PM - 2.30PM - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO ****- 300 NOK
+* 1PM - 2.30PM - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO ****- 300 NOK
 
-_COMING UP_
+_COMING UP WORKSHOPS_
 
-March, April, May...
+* March, April, May...
 
 **Start your process - Walk your path now!**
 
-2 BAC (Body Analysis of the Current), 4 PMBs (Pimp My Body). 50% discount for Workshop 2016 participants.
+* 2 BAC (Body Analysis of the Current), 4 PMBs (Pimp My Body). 50% discount for Workshop 2016 participants.
 
 > We are grateful. The door is open. Lets walk through it.
 
