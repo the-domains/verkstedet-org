@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T15:15:45.071Z'
-dateModified: '2016-01-28T15:15:42.053Z'
+datePublished: '2016-02-05T10:13:12.567Z'
+dateModified: '2016-02-05T10:13:00.862Z'
 title: WELCOME INFORMATION
 author: []
 sourcePath: _posts/2016-01-28-welcome-information.md
@@ -29,10 +29,11 @@ _type: Article
 
 In the form you choose what you wanted to improve in. Maybe it was your general health? skiing?riding? yoga? golf, work? or get rid of pain?Anyhow, the process in the Verkstedet Method starts with a test of your current health/status based on what you want to improve. This is called Body Analysis of the Current, BAC. Then 4 Pimp My Body, PMBs, and a followup BAC so that you know you are on the right path - **Your path.**
 
-**Current Locations**
+## Current Locations
 
-* BAC \# 1 & 2 - Markveien Naturmedisinske Senter, Markveien 35B 0554 OSLO. Questions? CALL/SMS +47 47290438
-* PMB \# 1 - 2 - 3 - 4 - Verkstedet klinikk, Inkognitogata 31, 0256 Oslo. Questions? CALL +47 22128900
+**BAC \# 1 & 2 **- Markveien Naturmedisinske Senter, Markveien 35B 0554 OSLO.**Questions? CALL/SMS +47 47290438**
+
+**PMB \# 1 - 2 - 3 - 4 **- Verkstedet klinikk, Inkognitogata 31, 0256 Oslo.**Questions? CALL +47 22128900**
 
 New locations for BAC & PMBs will be added here depending on where you live, what you want to improve and who your contact is.
 
