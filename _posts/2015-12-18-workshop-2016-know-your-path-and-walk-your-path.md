@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-05T10:11:19.047Z'
-dateModified: '2016-02-05T10:11:15.831Z'
+datePublished: '2016-02-07T22:12:33.384Z'
+dateModified: '2016-02-07T22:12:30.475Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
@@ -39,15 +39,15 @@ _NEXT WORKSHOP_
 
 **13th February - **_About the path..._
 
-* 1PM - 2.30PM - 8 Treasures Yoga, Krisitan Augustsgate 15b, OSLO ****- 300 NOK
+1PM - 2.30PM - 8 Treasures Yoga, Krisitian Augustsgate 15b, OSLO ****- 300 NOK
 
-_COMING UP WORKSHOPS_
+_MORE WORKSHOPS COMING UP IN..._
 
-* March, April, May...
+....March, April, May...
 
 **Start your process - Walk your path now!**
 
-* 2 BAC (Body Analysis of the Current), 4 PMBs (Pimp My Body). 50% discount for Workshop 2016 participants.
+2 BAC (Body Analysis of the Current), 4 PMBs (Pimp My Body). 50% discount for Workshop 2016 participants.
 
 > We are grateful. The door is open. Lets walk through it.
 
