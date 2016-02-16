@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-07T22:12:33.384Z'
-dateModified: '2016-02-07T22:12:30.475Z'
+datePublished: '2016-02-16T17:27:06.254Z'
+dateModified: '2016-02-16T17:26:57.185Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
