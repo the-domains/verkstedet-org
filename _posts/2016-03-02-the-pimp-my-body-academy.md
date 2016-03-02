@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T21:55:14.149Z'
-dateModified: '2016-03-02T21:55:08.270Z'
+datePublished: '2016-03-02T22:04:06.112Z'
+dateModified: '2016-03-02T21:57:34.930Z'
 title: "The Pimp My Body Academy\_"
 author: []
+sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
-published: true
 url: the-pimp-my-body-academy/index.html
 _type: Article
 
 ---
-# The Pimp My Body Academy ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aafc4220-60b8-4ef5-b326-94bccb72421c.jpg)
+# The Pimp My Body Academy ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/707c83a42d59b79589b1ab91d49b2a372862ef09.jpg)
 
 ## Are you a therapist who wants to step 
 up your game? Get the PMB edge! 
