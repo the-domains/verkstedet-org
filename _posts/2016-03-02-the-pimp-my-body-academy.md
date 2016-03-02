@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T22:04:06.112Z'
-dateModified: '2016-03-02T21:57:34.930Z'
+datePublished: '2016-03-02T22:06:32.516Z'
+dateModified: '2016-03-02T22:04:12.317Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
