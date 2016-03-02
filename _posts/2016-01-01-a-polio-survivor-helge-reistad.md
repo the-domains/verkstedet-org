@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Helge was born in Norway, 1942. The second world war was raging in Europe and he had like many other children at that time - Polio. After many broken limbs the doctors at the time decided to fixate his left arm with a screw to scapula and his left leg had the supporting function of a crouch.'
-datePublished: '2016-03-02T22:05:02.296Z'
-dateModified: '2016-03-02T22:01:15.114Z'
+datePublished: '2016-03-02T22:05:31.633Z'
+dateModified: '2016-03-02T22:05:14.615Z'
 title: A POLIO SURVIVOR - HELGE REISTAD
 author: []
 sourcePath: _posts/2016-01-01-a-polio-survivor-helge-reistad.md
