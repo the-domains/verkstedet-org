@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-02-03T20:44:19.488Z'
-dateModified: '2016-02-03T20:44:15.601Z'
+datePublished: '2016-03-02T22:05:18.738Z'
+dateModified: '2016-03-02T22:00:40.941Z'
 title: "BAC AFTER \_4 TREATMENTS"
 author: []
 sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
@@ -22,8 +22,6 @@ url: bac-after-4-treatments/index.html
 _type: Article
 
 ---
-# 
-
 # BAC AFTER  4 TREATMENTS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65b3cd66-453e-4daa-9ffa-44997f7dc49c.jpg)
 
