@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T22:06:32.516Z'
-dateModified: '2016-03-02T22:04:12.317Z'
+datePublished: '2016-03-03T12:03:34.957Z'
+dateModified: '2016-03-03T12:03:00.790Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
@@ -44,13 +44,10 @@ Master the PMB system, and learn how to test your clients. Your clients can foll
 and after only 4 sessions they are tested again. Read the results of our study, _[BAC after 4 treatments][0]_
 
 **The offer:**
-60 hours of intense training, great colleagues and a very experienced teacher. 
+60 hours of intense training, great colleagues and a very experienced teacher. The training will take place 3 weekends, one weekend a month in April, May and June. 
 
 **Your investment:** 15.000 NOK.
 8-10 April 2016 is the next training. 
-
-The training will take place 3 weekends, one weekend a month in 
-April, May and June. 
 
 **What you will learn:**
 
@@ -61,12 +58,14 @@ special forces.
 * Cold laser treatment methods (using the Erchonia PL 5000) 
 * How to master the too good to be true machine -- the percussor 
 
-**Invest in yourself.**
+****
 
 > I guarantee that your practice will prosper 
 > after this training. - Michael Jansson
 
-. Take the leap.Get the PMB edge. Book today! [Click here!][1]
+**Invest in yourself. **Take the leap. Get the PMB edge. 
+
+Book today! [Click here!][1]
 
 [0]: http://www.verkstedet.org/bac-after-4-treatments/
 [1]: https://podio.com/webforms/14886882/998273
