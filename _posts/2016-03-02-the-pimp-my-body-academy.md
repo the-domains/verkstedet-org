@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T12:16:59.083Z'
-dateModified: '2016-03-03T12:16:42.563Z'
+datePublished: '2016-03-03T12:26:49.753Z'
+dateModified: '2016-03-03T12:26:48.974Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
@@ -64,9 +64,9 @@ special forces.
 
 **Reservation:** To secure you spot, pay half of the full fee to (1607.43.26645). The 10% early bird discount will show when your full payment is made before course starts.
 
-## Invest in yourself. Take the leap. Get the PMB edge. 
+_Invest in yourself. Take the leap. Get the PMB edge. __**Book today! **_
 
-Book today! [Click here!][1]
+## [Click here!][1]
 
 [0]: http://www.verkstedet.org/bac-after-4-treatments/
 [1]: https://podio.com/webforms/14886882/998273
