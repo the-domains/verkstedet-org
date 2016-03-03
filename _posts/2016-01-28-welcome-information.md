@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T10:13:12.567Z'
-dateModified: '2016-02-05T10:13:00.862Z'
+datePublished: '2016-03-03T12:16:47.148Z'
+dateModified: '2016-03-03T12:04:14.305Z'
 title: WELCOME INFORMATION
 author: []
 sourcePath: _posts/2016-01-28-welcome-information.md
