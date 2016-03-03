@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T12:26:49.753Z'
-dateModified: '2016-03-03T12:26:48.974Z'
+datePublished: '2016-03-03T14:16:24.055Z'
+dateModified: '2016-03-03T14:16:16.054Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
@@ -30,7 +30,7 @@ up your game? Get the PMB edge!
 **Welcome to the most awesome training in spatial medicine!**
 Learn the 4-step PMB protocol to optimize structure, nutrition, emotion and movement (SNEM). This 
 is an effective, fun and challenging training for therapists who want to make an impact, both for 
-clients and yourself. 
+clients and themselves. 
 
 **The course** teaches effective and documented techniques that give long-lasting benefits to your 
 clients and takes them out of their pain and misery. The training builds on 15 years of practice, 
