@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T12:03:34.957Z'
-dateModified: '2016-03-03T12:03:00.790Z'
+datePublished: '2016-03-03T12:16:34.784Z'
+dateModified: '2016-03-03T12:16:24.555Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
@@ -37,7 +37,7 @@ clients and takes them out of their pain and misery. The training builds on 15 y
 thousands of hours of training and teaching, not to mention endless trials and errors. The result is an 
 amazing system, probably the best you can find. AND it is testable! 
 
-**The training** combines practical advanced-movement education with very effective manual 
+**The training **combines practical advanced-movement education with very effective manual 
 techniques. Learn to use structure, nutrition, emotion and movement to treat your clients using the 
 transformative benefits of neuroplasticity.
 Master the PMB system, and learn how to test your clients. Your clients can follow their own process 
@@ -46,8 +46,9 @@ and after only 4 sessions they are tested again. Read the results of our study, 
 **The offer:**
 60 hours of intense training, great colleagues and a very experienced teacher. The training will take place 3 weekends, one weekend a month in April, May and June. 
 
-**Your investment:** 15.000 NOK.
-8-10 April 2016 is the next training. 
+## 8-10 April 2016 is the next training
+
+**Your investment:** 15.000 NOK. (10 % earlybird discount, book before 15th of March)
 
 **What you will learn:**
 
@@ -58,12 +59,12 @@ special forces.
 * Cold laser treatment methods (using the Erchonia PL 5000) 
 * How to master the too good to be true machine -- the percussor 
 
-****
-
 > I guarantee that your practice will prosper 
 > after this training. - Michael Jansson
 
-**Invest in yourself. **Take the leap. Get the PMB edge. 
+**Reservation:** To secure you spot, pay half of the full fee to (1607.43.26645). The 10% early bird discount will show when your full payment is made before course starts.
+
+## Invest in yourself. Take the leap. Get the PMB edge. 
 
 Book today! [Click here!][1]
 
