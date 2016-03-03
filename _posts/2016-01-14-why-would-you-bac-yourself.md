@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Health problems can be just as complicated as being lost in a jungle. CheckUp®Trainer / BAC is your health GPS.
-datePublished: '2016-03-02T22:06:15.669Z'
-dateModified: '2016-03-02T22:05:59.544Z'
-title: "WHY BAC\_YOURSELF?"
+datePublished: '2016-03-03T12:20:52.702Z'
+dateModified: '2016-03-03T12:18:18.299Z'
+title: Why BAC yourself?
 author: []
 sourcePath: _posts/2016-01-14-why-would-you-bac-yourself.md
 published: true
@@ -22,7 +22,7 @@ url: why-bac-yourself/index.html
 _type: Article
 
 ---
-# WHY BAC YOURSELF?
+# Why BAC yourself?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b5a7ff1c44b2881a794b94ba50253dfacc2d557.jpg)
 
 **Picture yourself lost, in the jungle, with a map. You can find safety, comfort and civilisation marked with X. How could you possible find the way to X if you don't know your starting point? Health problems can be just as complicated as being lost in a jungle. CheckUp(r)Trainer / BAC is your health GPS.**
