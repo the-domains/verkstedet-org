@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T12:16:47.148Z'
-dateModified: '2016-03-03T12:04:14.305Z'
-title: WELCOME INFORMATION
+datePublished: '2016-03-03T12:19:53.754Z'
+dateModified: '2016-03-03T12:19:49.011Z'
+title: WELCOME INFO
 author: []
 sourcePath: _posts/2016-01-28-welcome-information.md
 published: true
@@ -22,7 +22,7 @@ url: welcome-information/index.html
 _type: Article
 
 ---
-# WELCOME INFORMATION
+# WELCOME INFO
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b82e998-d4e1-41cf-b1cf-88b3301a5825.jpg)
 
 **Thank you for registrer for Pimp My Body / Body Analysis of the Current. This is practical information that will help you "walk your path" and complete the Verkstedet Method.**
