@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Pimp my golf..skiing….life! You name it…this is the result after 2 test (benchmark & followup) and 4 treatments (PMBs).'
-datePublished: '2016-03-03T12:17:10.043Z'
-dateModified: '2016-03-03T12:04:11.296Z'
+description: 'Our testperson improved on over 95% of tested standards. He made a few less pushups (27 instead of 32) but each pushup had power and disinction, his posture was good and no pain what-so-ever.'
+datePublished: '2016-03-15T09:44:51.743Z'
+dateModified: '2016-03-15T09:44:31.352Z'
 title: BAC after 4 treatments
 author: []
 sourcePath: _posts/2016-01-13-bac-after-4-treatments.md
