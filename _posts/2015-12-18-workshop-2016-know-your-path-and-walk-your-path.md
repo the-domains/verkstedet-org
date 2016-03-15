@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "We'd like to show you a door, that will open up new paths and knowledge to help you take control of pain and excel your performance."
-datePublished: '2016-02-16T17:27:06.254Z'
-dateModified: '2016-02-16T17:26:57.185Z'
+description: 'Based on the press-release, 17.11.2015, and an increasing demand from the public we are happy to announce the Verkstedet-method / Pimp My Body (PMB) has scheduled workshops, throughout 2016 starting the 16th of January, where the verkstedet-method is presented holistically by the founder of PMB, Michael Jansson together with Verkstedet Clinic, Sindre Haga Andreassen, Tor Strømnes. You will also be given a presentation of the testing system by Pontus Lüttkens, Markveien Naturmedisinske Senter, the founder of BAC and testleader for CheckUp.'
+datePublished: '2016-03-15T09:45:06.541Z'
+dateModified: '2016-03-15T09:43:37.179Z'
 title: WORKSHOPS 2016
 author: []
 sourcePath: _posts/2015-12-18-workshop-2016-know-your-path-and-walk-your-path.md
