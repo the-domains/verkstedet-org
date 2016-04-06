@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-03T14:16:24.055Z'
-dateModified: '2016-03-03T14:16:16.054Z'
+description: "Welcome to the most awesome training in spatial medicine!\n\nLearn the 4-step PMB protocol to optimize structure, nutrition, emotion and movement (SNEM). This \n\nis an effective, fun and challenging training for therapists who want to make an impact, both for \n\nclients and themselves.\_"
+datePublished: '2016-04-06T19:25:16.156Z'
+dateModified: '2016-04-06T19:25:15.369Z'
 title: "The Pimp My Body Academy\_"
 author: []
 sourcePath: _posts/2016-03-02-the-pimp-my-body-academy.md
