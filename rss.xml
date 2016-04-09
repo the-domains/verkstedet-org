@@ -4,7 +4,7 @@
         <description><![CDATA[THE VERKSTEDET ORGANIZATION]]></description>
         <link>http://www.verkstedet.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 19:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 08:15:56 GMT</lastBuildDate>
         <atom:link href="http://www.verkstedet.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pain is Weird]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.painscience.com/articles/pain-is-weird.php</link>
             <guid isPermaLink="false">72433f38-deb8-442f-8e0e-887b81d2214e</guid>
             <pubDate>Wed, 06 Apr 2016 19:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Passion shared]]></title>
+            <description><![CDATA[<article><h1>Passion shared</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3fce63-1443-49c4-bbb5-e29e8bca8ca8.png"></article>]]></description>
+            <link>http://www.verkstedet.org/passion-shared/index.html</link>
+            <guid isPermaLink="false">03e2e05f-f5b6-4938-b0d3-94d2e90509ca</guid>
+            <pubDate>Sat, 09 Apr 2016 08:14:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Pimp My Body Academy ]]></title>
@@ -36,18 +43,11 @@ clients and themselves. </p><img src="https://s3-us-west-2.amazonaws.com/the-gr
             <pubDate>Tue, 15 Mar 2016 09:45:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why BAC yourself?]]></title>
-            <description><![CDATA[<article><h1>Why BAC yourself?</h1><p>Welcome and get mapped the way out of trouble!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa44d81ef30324d9e2be0892953b93949c925fc5.jpg"></article>]]></description>
-            <link>http://www.verkstedet.org/why-bac-yourself/index.html</link>
-            <guid isPermaLink="false">9a13864b-5f9b-46aa-8f27-ff5c96e64cf9</guid>
-            <pubDate>Thu, 03 Mar 2016 12:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WELCOME INFO]]></title>
-            <description><![CDATA[<article><h1>WELCOME INFO</h1><h2>Current Locations</h2><p>BAC testing takes 90 minutes. PMB treatment take 60 min. We are situated in the heart of Oslo, Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2eeec664635f918532b946918b85054c3b7bf9.jpg"></article>]]></description>
-            <link>http://www.verkstedet.org/welcome-information/index.html</link>
-            <guid isPermaLink="false">1bb41aa1-87e9-40ff-a681-4bd66c873808</guid>
-            <pubDate>Thu, 03 Mar 2016 12:19:53 GMT</pubDate>
+            <title><![CDATA[A polio survivor - Helge Reistad]]></title>
+            <description><![CDATA[<article><h1>A polio survivor - Helge Reistad</h1><p>Helge was born in Norway, 1942. The second world war was raging in Europe and he had like many other children at that time - Polio. After many broken limbs the doctors at the time decided to fixate his left arm with a screw to scapula and his left leg had the supporting function of a crouch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a01899874a60a46a743fdc22a45d0482ac44dff.jpg"></article>]]></description>
+            <link>http://www.verkstedet.org/a-polio-survivor-helge-reistad/index.html</link>
+            <guid isPermaLink="false">8a5b73c4-8cac-417d-bccf-a17005e8534d</guid>
+            <pubDate>Tue, 15 Mar 2016 09:44:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BAC after 4 treatments]]></title>
@@ -57,11 +57,11 @@ clients and themselves. </p><img src="https://s3-us-west-2.amazonaws.com/the-gr
             <pubDate>Tue, 15 Mar 2016 09:44:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A polio survivor - Helge Reistad]]></title>
-            <description><![CDATA[<article><h1>A polio survivor - Helge Reistad</h1><p>Helge was born in Norway, 1942. The second world war was raging in Europe and he had like many other children at that time - Polio. After many broken limbs the doctors at the time decided to fixate his left arm with a screw to scapula and his left leg had the supporting function of a crouch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a01899874a60a46a743fdc22a45d0482ac44dff.jpg"></article>]]></description>
-            <link>http://www.verkstedet.org/a-polio-survivor-helge-reistad/index.html</link>
-            <guid isPermaLink="false">8a5b73c4-8cac-417d-bccf-a17005e8534d</guid>
-            <pubDate>Tue, 15 Mar 2016 09:44:57 GMT</pubDate>
+            <title><![CDATA[Why BAC yourself?]]></title>
+            <description><![CDATA[<article><h1>Why BAC yourself?</h1><p>Welcome and get mapped the way out of trouble!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa44d81ef30324d9e2be0892953b93949c925fc5.jpg"></article>]]></description>
+            <link>http://www.verkstedet.org/why-bac-yourself/index.html</link>
+            <guid isPermaLink="false">9a13864b-5f9b-46aa-8f27-ff5c96e64cf9</guid>
+            <pubDate>Thu, 03 Mar 2016 12:20:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pressrelease [17.11.2015]]]></title>
@@ -69,6 +69,13 @@ clients and themselves. </p><img src="https://s3-us-west-2.amazonaws.com/the-gr
             <link>http://www.verkstedet.org/pressrelease-17112015/index.html</link>
             <guid isPermaLink="false">2921291a-5a2e-486b-9a5a-f416d69c943e</guid>
             <pubDate>Thu, 03 Mar 2016 12:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WELCOME INFO]]></title>
+            <description><![CDATA[<article><h1>WELCOME INFO</h1><h2>Current Locations</h2><p>BAC testing takes 90 minutes. PMB treatment take 60 min. We are situated in the heart of Oslo, Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2eeec664635f918532b946918b85054c3b7bf9.jpg"></article>]]></description>
+            <link>http://www.verkstedet.org/welcome-information/index.html</link>
+            <guid isPermaLink="false">1bb41aa1-87e9-40ff-a681-4bd66c873808</guid>
+            <pubDate>Thu, 03 Mar 2016 12:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
